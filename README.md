@@ -1,3 +1,6 @@
+[![check_knit](https://github.com/ghclass-demo/hw01-everyone/workflows/check_knit/badge.svg)](https://github.com/ghclass-demo/hw01-everyone/actions?query=workflow:%22check_knit%22)
+
+
 
 Statistical Programming - Homework 1
 -------------
